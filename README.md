@@ -1,4 +1,4 @@
 # hello-world
 
-new to GitHub
-here to learn
+new to GitHub.
+Here to learn
